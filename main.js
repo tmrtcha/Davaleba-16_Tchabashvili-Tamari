@@ -13,7 +13,7 @@ console.log(
 // EXERCISE 2
 const produduct = {
   productName: "Iphone 17 Pro Max",
-  memory: "1TB",
+  memory: "16GB",
   isAvalableAt: ["address1", "address2", "address3"],
   price: 1200,
   quantity: 5,
